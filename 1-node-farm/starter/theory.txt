@@ -1,0 +1,10 @@
+Lecture 1:
+
+In node js there is a thing called repel you can write your code in it and test it.
+The repel can be accessed by writing node and pressing enter in the terminal.
+The repel supports all functions of ES6.
+In order to close the repel you have to enter Ctrl+D
+In repel if you press the tab then you can see all of the things that the nodejs support like Arrays methods, String or e.t.c
+You can also use nodejs repel as calculator and perform different calculations on it.
+If you write _ then you can access the previous value that you have just drived by any calculation.
+If you want to see all of the methods that a specific function can have for example if you want to see that what String supports then you can simply write String. in the repel and then if you press enter then you will be able to see all of the things that that function provides.
