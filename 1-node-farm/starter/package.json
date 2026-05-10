@@ -1,0 +1,17 @@
+{
+  "name": "starter",
+  "version": "1.0.0",
+  "description": "Basic of nodejs",
+  "license": "ISC",
+  "author": "Subhan Ali Tahir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "nodeman": "^1.1.2",
+    "slugify": "^1.6.9"
+  }
+}
